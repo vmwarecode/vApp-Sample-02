@@ -1,0 +1,756 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1-1",
+      "creationTime": 1595697660985,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "4324458e-5077-4a87-8cb8-dd7249fa88f0",
+      "importAttempts": 0,
+      "importComplete": true,
+      "lastUpdateTime": 1595697788216,
+      "lastUpdateUserId": "7c056da1-f605-4b92-9f2b-beebf9b18fc1",
+      "locked": false,
+      "name": "vPod WIP_Corellia_3.3",
+      "rank": 0,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "7c056da1-f605-4b92-9f2b-beebf9b18fc1",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "a8fee0bb-8f32-4cc6-92d3-434fce90ff43"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "421e0d61-0d5a-4a22-8e93-d0cb24cb96d3"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "62f57f50-a1f8-4ca3-bc87-3b858bc17cc4"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "e9057caa-2b9d-4348-b1d9-53b8f4176054"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "ffdec905-11cd-41a3-8714-ba4fd3a99299"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "3a09c6bf-158a-4eca-9766-76fc0c172e36"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "db0e1a2b-7ca6-457e-aa46-db07ef1f5404"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "9597c34a-f78b-44d5-ad4b-d13a2bf6a849"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "77269f42-cc0c-4538-88a6-2010829f0d19"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "d78ee65c-cd37-4616-baa4-a4d9a8cfa0cf"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "5f9df426-c44e-40be-928f-f65869e8feff"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "7eb807ab-6a28-4b07-9335-ac664a4e0c3d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "6a3e8427-a1bf-44fc-8e49-d26c14464957"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "d819c31f-be07-4d10-81db-9b52209dce36"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "4f584a62-d9ca-48ba-917c-49e20cbe2ad9"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "593434bb-e2f8-493b-af55-0079645ce5fe"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "c93271f1-fd00-4ff2-a2a0-99400bf42819"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "2a10b882-a19a-4938-973d-3cd73bbcbd25"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "widgetIdReceiver": "0a33df76-c55b-4c1c-8328-27135a3dbea0"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [{
+                  "boxLabel": "",
+                  "metricKey": "mem|consumed_average",
+                  "metricName": "Memory|Consumed (KB)",
+                  "resourceKindId": "resourceKind:id:1_::_"
+               }],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [{
+                     "filterTypes": [{
+                        "condition": "CONTAINS",
+                        "filterType": "resourceName",
+                        "resourceName": "WIP_Corellia_3.3"
+                     }],
+                     "resourceKind": "002006vCloudVAPP"
+                  }],
+                  "includedResources": null
+               },
+               "depth": 2,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 1},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": {
+                  "path": ["/source/kind_resourceKind:id:0_::_/tag:resource:id:0_::_"],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": [],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [["resource:id:0_::_"]],
+                     "tier": []
+                  }
+               },
+               "title": "VMs"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 1,
+               "y": 1
+            },
+            "height": 324,
+            "id": "f5e053b4-8918-4855-af0c-be22584d9a2d",
+            "states": [
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_f5e053b4-8918-4855-af0c-be22584d9a2d",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permResGrid_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_f5e053b4-8918-4855-af0c-be22584d9a2d",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%255Eo%25253Aid%25253Ds%2525253Ah5%255Eo%25253Aid%25253Ds%2525253Ah6%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A0%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+               }
+            ],
+            "title": "VMs",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "title": "Metric"
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 4,
+               "y": 17
+            },
+            "height": 267,
+            "id": "a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+            "states": [
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+                  "value": "o%3A"
+               },
+               {
+                  "key": "permDateRange1_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_a8fee0bb-8f32-4cc6-92d3-434fce90ff43",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Metric",
+            "type": "MetricChart"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Capacity"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 9,
+               "y": 1
+            },
+            "height": 324,
+            "id": "421e0d61-0d5a-4a22-8e93-d0cb24cb96d3",
+            "title": "Capacity",
+            "type": "IntSummaryCapacity"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Workload"
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 1,
+               "y": 7
+            },
+            "height": 267,
+            "id": "62f57f50-a1f8-4ca3-bc87-3b858bc17cc4",
+            "title": "Workload",
+            "type": "IntSummaryWorkload"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartHeight": 115,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "metricLabel": "",
+               "metricName": "",
+               "metricType": {"metricType": "health"},
+               "metricUnit": {
+                  "metricUnitId": null,
+                  "metricUnitName": ""
+               },
+               "mode": "all",
+               "paginationNumber": 15,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "showMetricLabel": {"showMetricLabel": false},
+               "showResourceName": {"showResourceName": true},
+               "sortBy": "metricValue",
+               "sortByDir": {"orderByDir": "asc"},
+               "tagFilter": null,
+               "title": "Health"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 5,
+               "y": 1
+            },
+            "height": 324,
+            "id": "e9057caa-2b9d-4348-b1d9-53b8f4176054",
+            "states": [
+               {
+                  "key": "permDateRange_HealthChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_e9057caa-2b9d-4348-b1d9-53b8f4176054",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_e9057caa-2b9d-4348-b1d9-53b8f4176054",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Health",
+            "type": "HealthChart"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "impactedBadge": "",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": [
+                  -1,
+                  0
+               ]},
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Top Alerts",
+               "topIssuesDisplayLimit": 5
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 7,
+               "y": 7
+            },
+            "height": 267,
+            "id": "ffdec905-11cd-41a3-8714-ba4fd3a99299",
+            "title": "Top Alerts",
+            "type": "ProblemAlertsList"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 4,
+               "y": 7
+            },
+            "height": 267,
+            "id": "3a09c6bf-158a-4eca-9766-76fc0c172e36",
+            "states": [{
+               "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_3a09c6bf-158a-4eca-9766-76fc0c172e36",
+               "value": "b%3A0"
+            }],
+            "title": "Top-N",
+            "type": "ParetoAnalysis"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "alertAction": [],
+               "alertImpact": [],
+               "criticalityLevel": [],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": [
+                  -1,
+                  0
+               ]},
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "state": [],
+               "status": [],
+               "tagFilter": null,
+               "title": "Alerts",
+               "type": []
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 10,
+               "y": 7
+            },
+            "height": 267,
+            "id": "db0e1a2b-7ca6-457e-aa46-db07ef1f5404",
+            "states": [
+               {
+                  "key": "permDateFilter_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_db0e1a2b-7ca6-457e-aa46-db07ef1f5404",
+                  "value": "s%3A%7B%22dateRange%22%3A%22last30Days%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "permAlertGrid_perm_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_db0e1a2b-7ca6-457e-aa46-db07ef1f5404",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4%255Eo%25253Aid%25253Ds%2525253Ah5%255Eo%25253Aid%25253Ds%2525253Ah6%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah11%255Eo%25253Aid%25253Ds%2525253Ah12%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%5EstoreState%3Do%253Asorters%253Da%25253Ao%2525253Aroot%2525253Ds%252525253Adata%2525255Eproperty%2525253Ds%252525253AstartTimeUtc%2525255Edirection%2525253Ds%252525253ADESC%2525255Eid%2525253Ds%252525253AstartTimeUtc"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_db0e1a2b-7ca6-457e-aa46-db07ef1f5404",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permViewMode_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_db0e1a2b-7ca6-457e-aa46-db07ef1f5404",
+                  "value": "s%3Atime"
+               }
+            ],
+            "title": "Alerts",
+            "type": "AlertList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "badge": [
+                  {
+                     "badgeKey": "health",
+                     "badgeName": "Health",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "risk",
+                     "badgeName": "Risk",
+                     "label": null,
+                     "show": true
+                  },
+                  {
+                     "badgeKey": "efficiency",
+                     "badgeName": "Efficiency",
+                     "label": null,
+                     "show": true
+                  }
+               ],
+               "custom": [],
+               "mode": "resource",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "selfProvider": {"selfProvider": false},
+               "title": "Environment"
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 10,
+               "y": 12
+            },
+            "height": 267,
+            "id": "9597c34a-f78b-44d5-ad4b-d13a2bf6a849",
+            "states": [
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_9597c34a-f78b-44d5-ad4b-d13a2bf6a849",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permSkittlesView_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_9597c34a-f78b-44d5-ad4b-d13a2bf6a849",
+                  "value": "o%3A"
+               }
+            ],
+            "title": "Environment",
+            "type": "Skittles"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "columnSequence": {"columnSequence": "graphFirst"},
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": true},
+               "showResourceName": {"showObjectName": false},
+               "title": "Details"
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 1,
+               "y": 12
+            },
+            "height": 267,
+            "id": "77269f42-cc0c-4538-88a6-2010829f0d19",
+            "states": [
+               {
+                  "key": "permDateRange_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_77269f42-cc0c-4538-88a6-2010829f0d19",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_77269f42-cc0c-4538-88a6-2010829f0d19",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Details",
+            "type": "SparklineChart"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 7,
+               "y": 12
+            },
+            "height": 267,
+            "id": "d78ee65c-cd37-4616-baa4-a4d9a8cfa0cf",
+            "states": [
+               {
+                  "key": "permMetricListDataGrid_metricGrid_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_d78ee65c-cd37-4616-baa4-a4d9a8cfa0cf",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_d78ee65c-cd37-4616-baa4-a4d9a8cfa0cf",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Property List",
+            "type": "PropertyList"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 1,
+               "y": 17
+            },
+            "height": 267,
+            "id": "5f9df426-c44e-40be-928f-f65869e8feff",
+            "states": [{
+               "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_5f9df426-c44e-40be-928f-f65869e8feff",
+               "value": "b%3A0"
+            }],
+            "title": "Scoreboard",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 4,
+               "y": 12
+            },
+            "height": 267,
+            "id": "7eb807ab-6a28-4b07-9335-ac664a4e0c3d",
+            "title": "Environment",
+            "type": "IntSummaryEnvironment"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 7,
+               "y": 17
+            },
+            "height": 267,
+            "id": "6a3e8427-a1bf-44fc-8e49-d26c14464957",
+            "title": "Efficiency",
+            "type": "IntSummaryEfficiency"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 10,
+               "y": 17
+            },
+            "height": 267,
+            "id": "d819c31f-be07-4d10-81db-9b52209dce36",
+            "title": "Risk",
+            "type": "IntSummaryRisk"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 4,
+               "w": 3,
+               "x": 1,
+               "y": 22
+            },
+            "height": 210,
+            "id": "4f584a62-d9ca-48ba-917c-49e20cbe2ad9",
+            "title": "Faults",
+            "type": "IntSummaryFaults"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 9,
+               "w": 6,
+               "x": 4,
+               "y": 22
+            },
+            "height": 495,
+            "id": "593434bb-e2f8-493b-af55-0079645ce5fe",
+            "states": [{
+               "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_593434bb-e2f8-493b-af55-0079645ce5fe",
+               "value": "b%3A0"
+            }],
+            "title": "Anomaly Breakdown",
+            "type": "ParetoChart"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 1,
+               "y": 26
+            },
+            "height": 267,
+            "id": "2a10b882-a19a-4938-973d-3cd73bbcbd25",
+            "title": "Current Policy",
+            "type": "IntSummaryCurrentPolicy"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 4,
+               "w": 3,
+               "x": 10,
+               "y": 22
+            },
+            "height": 210,
+            "id": "c93271f1-fd00-4ff2-a2a0-99400bf42819",
+            "title": "Alert Volume",
+            "type": "IntSummaryAlertVolume"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 10,
+               "y": 26
+            },
+            "height": 267,
+            "id": "0a33df76-c55b-4c1c-8328-27135a3dbea0",
+            "states": [
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_0a33df76-c55b-4c1c-8328-27135a3dbea0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permDateRange_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_0a33df76-c55b-4c1c-8328-27135a3dbea0",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_0a33df76-c55b-4c1c-8328-27135a3dbea0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricChart_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_0a33df76-c55b-4c1c-8328-27135a3dbea0",
+                  "value": "o%3Aweight%3Dn%253A0"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_4324458e-5077-4a87-8cb8-dd7249fa88f0_0a33df76-c55b-4c1c-8328-27135a3dbea0",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Rolling View Chart",
+            "type": "RollingViewChart"
+         }
+      ]
+   }],
+   "entries": {
+      "resource": [{
+         "adapterKindKey": "vCloud",
+         "identifiers": [
+            {
+               "key": "UUID",
+               "value": "urn:vcloud:vApp:c1893c17-2a10-421f-8baa-13bf91cb5c4c"
+            },
+            {
+               "key": "VCloudID",
+               "value": "cloud-vip"
+            }
+         ],
+         "internalId": "resource:id:0_::_",
+         "name": "WIP_Corellia_3.3",
+         "resourceKindKey": "VAPP"
+      }],
+      "resourceKind": [
+         {
+            "adapterKindKey": "VMWARE",
+            "internalId": "resourceKind:id:1_::_",
+            "resourceKindKey": "HostSystem"
+         },
+         {
+            "adapterKindKey": "vCloud",
+            "internalId": "resourceKind:id:0_::_",
+            "resourceKindKey": "VAPP"
+         }
+      ]
+   },
+   "uuid": "0a9f21be-19be-4d44-a008-6e472abff4f0"
+}
